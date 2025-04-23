@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+    /* overflow: hidden; */
+}
+.carousel-inner{
+    height: 500px;
+    width: 100vw;
+    /* object-fit: cover; */
+}
+.carousel-inner img{
+    height: 500px;
+    width: 100vw;
+}
+
+.main{
+    overflow: hidden;
+}
+
+button{
+    padding: 10px 20px;
+    margin: 20px;
+   
+}
